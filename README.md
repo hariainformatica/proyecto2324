@@ -34,7 +34,7 @@ commit mensaje = “anteproyecto”
 - Exposición de 10 minutos: 5 minutos de exposición y 5 minutos de preguntas
 
 ### Asistencia obligatoria
-11, 12, 13 de marzo
-18 y 20 de marzo
-19/21 (uno o el otro)
-1 y 3 de abril
+- 11, 12, 13 de marzo
+- 18 y 20 de marzo
+- 19/21 (uno o el otro)
+- 1 y 3 de abril
