@@ -23,6 +23,8 @@ Los requisitos necesarios para superar el módulo de Proyecto de desarrollo de a
 ### Anteproyecto
 - 13 de marzo
 - Título, objetivos, temáticas
+- Borrador del modelo de datos (entidad / relación)
+- Hoja de cálculo con un mínimo de 3 entradas para cada entidad recogida en el anterior modelo de datos
 - Borrador de interfaces (mockup) en Figma
 - Aprobación previa por el profesorado
 readme.md del repositorio en GitHub (incluyendo borrador / mockup)
