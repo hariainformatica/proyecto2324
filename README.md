@@ -28,11 +28,11 @@ Los requisitos necesarios para superar el módulo de Proyecto de desarrollo de a
   - temáticas
 - modeloDatos.jpg (Borrador del modelo de datos (entidad / relación))
 - modeloEjemplo.ods Hoja de cálculo con un mínimo de 3 entradas para cada entidad recogida en el anterior modelo de datos
-- mmockup.fig Borrador de interfaces (mockup) en Figma
+- mockup.fig Borrador de interfaces (mockup) en Figma
 
 --------------------------------------
 - Aprobación previa por el profesorado
-commit mensaje = “anteproyecto”
+- commit mensaje = “anteproyecto”
 
 ### Presentación
 - Fecha 5 de abril (15/20 minutos por 12  alumnos  = 3-4 horas)
